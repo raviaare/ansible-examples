@@ -1,3 +1,15 @@
 
+only for JDK used below commnad:
 
 ansible-playbook -i jdk.ini jdk.yml
+
+
+Jenkins instllation commnad:
+
+  ansible-playbook -i jenkins.ini jenkins.yml
+  
+  
+  
+Jetty server:
+
+ ansible-playbook -i jetty.ini jetty.yml
