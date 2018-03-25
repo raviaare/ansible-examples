@@ -1,5 +1,5 @@
 ---
-- hosts: webserver
+- hosts: jdkhosts
   sudo: true
   roles:
     -  ansible-java8-oracle
